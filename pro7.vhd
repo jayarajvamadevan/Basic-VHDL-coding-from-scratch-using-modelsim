@@ -1,3 +1,5 @@
+library ieee;
+use ieee.std_logic_1164.all;
 entity T07_WaitOnUntil is
 end entity;
  
