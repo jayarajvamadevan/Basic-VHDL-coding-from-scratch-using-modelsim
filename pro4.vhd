@@ -1,3 +1,5 @@
+library ieee;
+use ieee.std_logic_1164.all;
 entity T04_For_Loop is
 end entity;
  
