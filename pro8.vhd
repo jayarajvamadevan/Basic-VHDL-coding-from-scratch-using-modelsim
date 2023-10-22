@@ -1,3 +1,5 @@
+library ieee;
+use ieee.std_logic_1164.all;
 entity T08_IF is
 end entity;
  
